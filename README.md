@@ -1,2 +1,2 @@
 # weaviate
-Projeto de Estudo para o Waviate
+Projeto de Estudo para o Weaviate
